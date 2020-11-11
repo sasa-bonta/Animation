@@ -3,46 +3,46 @@
 
     <item
         android:drawable="@drawable/ic_frame_00"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_01"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_02"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_03"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_04"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_05"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_06"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_07"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_08"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_09"
-        android:duration="1000"/>
+        android:duration="980"/>
 
     <item
         android:drawable="@drawable/ic_frame_10"
-        android:duration="1000"/>
+        android:duration="980"/>
 
 </animation-list>
