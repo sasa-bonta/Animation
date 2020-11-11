@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    public class Main {-->
+
+<!--        public static void main(String[] args) {-->
+
+<!--            for (int i = 1; i <= 213; i++) { -->
+<!--                System.out.println("<item\n    android:drawable=\"@drawable/fire" + i + "\"\n    android:duration=\"30\"/>\n");-->
+<!--            }-->
+
+<!--        }-->
+<!--    }-->
+
+    <item
+        android:drawable="@drawable/fire1"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire2"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire3"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire4"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire5"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire6"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire7"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire8"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire9"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire10"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire11"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire12"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire13"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire14"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire15"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire16"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire17"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire18"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire19"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire20"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire21"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire22"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire23"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire24"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire25"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire26"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire27"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire28"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire29"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire30"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire31"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire32"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire33"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire34"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire35"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire36"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire37"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire38"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire39"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire40"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire41"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire42"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire43"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire44"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire45"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire46"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire47"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire48"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire49"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire50"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire51"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire52"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire53"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire54"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire55"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire56"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire57"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire58"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire59"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire60"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire61"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire62"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire63"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire64"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire65"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire66"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire67"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire68"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire69"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire70"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire71"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire72"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire73"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire74"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire75"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire76"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire77"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire78"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire79"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire80"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire81"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire82"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire83"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire84"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire85"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire86"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire87"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire88"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire89"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire90"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire91"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire92"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire93"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire94"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire95"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire96"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire97"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire98"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire99"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire100"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire101"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire102"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire103"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire104"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire105"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire106"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire107"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire108"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire109"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire110"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire111"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire112"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire113"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire114"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire115"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire116"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire117"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire118"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire119"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire120"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire121"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire122"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire123"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire124"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire125"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire126"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire127"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire128"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire129"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire130"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire131"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire132"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire133"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire134"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire135"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire136"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire137"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire138"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire139"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire140"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire141"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire142"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire143"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire144"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire145"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire146"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire147"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire148"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire149"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire150"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire151"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire152"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire153"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire154"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire155"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire156"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire157"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire158"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire159"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire160"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire161"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire162"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire163"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire164"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire165"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire166"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire167"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire168"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire169"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire170"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire171"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire172"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire173"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire174"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire175"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire176"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire177"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire178"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire179"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire180"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire181"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire182"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire183"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire184"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire185"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire186"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire187"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire188"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire189"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire190"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire191"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire192"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire193"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire194"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire195"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire196"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire197"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire198"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire199"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire200"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire201"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire202"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire203"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire204"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire205"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire206"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire207"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire208"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire209"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire210"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire211"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire212"
+        android:duration="30"/>
+
+    <item
+        android:drawable="@drawable/fire213"
+        android:duration="30"/>
+
+</animation-list>
